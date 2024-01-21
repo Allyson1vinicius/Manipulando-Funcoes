@@ -1,0 +1,14 @@
+C:\Users\allys\Projetos\ManipulandoFuncoes\bin\Debug\net8.0\ManipulandoFuncoes.exe
+C:\Users\allys\Projetos\ManipulandoFuncoes\bin\Debug\net8.0\ManipulandoFuncoes.deps.json
+C:\Users\allys\Projetos\ManipulandoFuncoes\bin\Debug\net8.0\ManipulandoFuncoes.runtimeconfig.json
+C:\Users\allys\Projetos\ManipulandoFuncoes\bin\Debug\net8.0\ManipulandoFuncoes.dll
+C:\Users\allys\Projetos\ManipulandoFuncoes\bin\Debug\net8.0\ManipulandoFuncoes.pdb
+C:\Users\allys\Projetos\ManipulandoFuncoes\obj\Debug\net8.0\ManipulandoFuncoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allys\Projetos\ManipulandoFuncoes\obj\Debug\net8.0\ManipulandoFuncoes.AssemblyInfoInputs.cache
+C:\Users\allys\Projetos\ManipulandoFuncoes\obj\Debug\net8.0\ManipulandoFuncoes.AssemblyInfo.cs
+C:\Users\allys\Projetos\ManipulandoFuncoes\obj\Debug\net8.0\ManipulandoFuncoes.csproj.CoreCompileInputs.cache
+C:\Users\allys\Projetos\ManipulandoFuncoes\obj\Debug\net8.0\ManipulandoFuncoes.dll
+C:\Users\allys\Projetos\ManipulandoFuncoes\obj\Debug\net8.0\refint\ManipulandoFuncoes.dll
+C:\Users\allys\Projetos\ManipulandoFuncoes\obj\Debug\net8.0\ManipulandoFuncoes.pdb
+C:\Users\allys\Projetos\ManipulandoFuncoes\obj\Debug\net8.0\ManipulandoFuncoes.genruntimeconfig.cache
+C:\Users\allys\Projetos\ManipulandoFuncoes\obj\Debug\net8.0\ref\ManipulandoFuncoes.dll
